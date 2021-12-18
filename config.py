@@ -1,0 +1,2 @@
+tokenbot = ''
+groupid = ''
